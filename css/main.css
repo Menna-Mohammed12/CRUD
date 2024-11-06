@@ -1,0 +1,14 @@
+.backcolor{
+    background-color: #F7F9F2;
+}
+.textcolor{
+    color: #c2a1c0;
+}
+.btncolor{
+    background-color:#c2a1c0 ;
+    color: #F7F9F2;
+}
+.btncolor:hover{
+    background-color:#d3afd1 ;
+    color: #F7F9F2;
+}
